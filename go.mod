@@ -1,4 +1,4 @@
-module github.com/hossam1231/logger-go-pkg
+module github.com/xDeFc0nx/logger-go-pkg
 
 go 1.21.6
 
